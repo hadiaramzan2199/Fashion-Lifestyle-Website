@@ -1,4 +1,4 @@
-# Fashion Lifestyles
+# Fashion Lifestyle Website
 
 This repository showcases the code for a fashion-focused website called "Fashion Lifestyles."
 
